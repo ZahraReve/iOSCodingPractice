@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  TableView
+
+  Created by User on 9/5/23.
+  
+*/
+
+//"Hello" = "Hola";
+//"Home" = "Hogar";
+//"Notifications" = "Notificaciones";
+//"Person 1" = "Persona 1";
+//"Person 2" = "Persona 2";
+//"Self" = "Ser" ;
+//"Starred" = "Sembrado de estrellas" ;
+//"Settings" = "Ajustes" ;
+//"failed to convert" = "no se pudo convertir" ;
+//"something went wrong" = "algo salió mal" ;
+//"Select a Country" = "Seleccione un país";
+//#//"Seleccione un país" = "Select a Country";
+//"Contacts" = "Contactos";
+//"Profile" = "Perfil";
+//"Language" = "Idioma";
